@@ -1,0 +1,1 @@
+# .NetCoreTapshiriq1Problem
